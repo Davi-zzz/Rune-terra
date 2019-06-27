@@ -1,0 +1,67 @@
+body {
+	background-image: url(Noxusbk.jpg);
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+h1 {
+
+	font-family: "Bradley Hand ITC";
+	font-size: 50px;
+	color: rgb(454,56,01);
+	text-align: center;
+}
+p {
+	font-family:"Comic Sans MS";
+	font-size: 24px;
+	color: red;
+	text-align: center;
+}
+.img-brd {
+	display: groove;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 3px;
+	text-align: center;
+	background-color:#B40404;	
+	border: 1px solid white;
+	
+}
+#principal{
+
+	background-color:#151515;
+	width: 70%;
+	margin-left:15%; 
+}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+	display: inline;
+}
+
+li {
+	text-align: center;
+	padding:1px 1px;
+	list-style-type:none;
+}
+
+#menu1 ul li a:hover{
+	background:#333; 
+	color:#fff; 
+	-moz-box-shadow:0 3px 10px 0 #CCC; 
+	-webkit-box-shadow:0 3px 10px 0 #ccc; 
+	text-shadow:0px 0px 5px #fff; 
+}
+#Noxus{
+	color: red;
+}
+#Demacia{
+	color: yellow;
+}
+#Vazio{
+	color: #D358F7;
+}
+#IlhadasSombras{
+	color: cyan;
+}
